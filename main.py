@@ -24,4 +24,8 @@ distance = kmeans.fit_transform(x)
 print("\nFIT_TRANSFORM -> ")
 print(distance)
 
-
+# Retorna os labels para cada instancia, ou seja, o codigo do cluster que a instancia de dados
+# foi atribuida
+labels = kmeans.labels_
+print("\nLABELS -> ")
+print(labels)
