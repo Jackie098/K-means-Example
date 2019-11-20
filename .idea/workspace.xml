@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="874431fa-de5b-423a-b0bc-0c1a28f7d15c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/elbow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewClusters.py" beforeDir="false" afterPath="$PROJECT_DIR$/viewClusters.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,8 +171,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.viewClusters" />
-        <item itemvalue="Python.elbow" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.elbow" />
       </list>
     </recent_temporary>
   </component>
